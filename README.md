@@ -7,6 +7,7 @@ npm install
 
 
 react-native start > /dev/null 2>&1 & 　　　　　・・・このコマンドはいらないかもしれない
+
 react-native run-android
 
 
