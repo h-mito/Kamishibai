@@ -1,10 +1,18 @@
 # 導入方法
 
-git clone
+git clone https://github.com/h-mito/Kamishibai.git
 
 cd Kamishibai
 npm install
 
+
+# 動作確認
+Android Studioを入れて、Hello Worldができる状態まで持っていく。
+[参考](http://beautifulajax.dip.jp/?p=1555)
+
+で、Androidのエミュレーターを立ち上げてから、以下のコマンド実行
+
+cd Kamishibai
 
 react-native start > /dev/null 2>&1 & 　　　　　・・・このコマンドはいらないかもしれない
 
